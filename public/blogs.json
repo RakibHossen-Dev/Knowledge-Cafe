@@ -49,16 +49,7 @@
     "reading_time": 8,
     "hashtags": ["#JavaScript", "#Closures", "#Programming"]
   },
-  {
-    "id": "6",
-    "cover_pic": "https://images.unsplash.com/photo-1517430816045-df4b7de7504f",
-    "title": "CSS Grid: A Powerful Layout Tool",
-    "author": "Sarah Miller",
-    "author_image": "https://randomuser.me/api/portraits/women/39.jpg",
-    "post_date": "25-10-2024",
-    "reading_time": 5,
-    "hashtags": ["#CSSGrid", "#CSS", "#WebDesign"]
-  },
+
   {
     "id": "7",
     "cover_pic": "https://images.unsplash.com/photo-1481277542470-605612bd2d61",
@@ -69,26 +60,7 @@
     "reading_time": 6,
     "hashtags": ["#NodeJS", "#Backend", "#JavaScript"]
   },
-  {
-    "id": "8",
-    "cover_pic": "https://images.unsplash.com/photo-1518709268803-4e9042af9f23",
-    "title": "Understanding Flexbox: A Complete Guide",
-    "author": "Jessica White",
-    "author_image": "https://randomuser.me/api/portraits/women/25.jpg",
-    "post_date": "2-9-2024",
-    "reading_time": 7,
-    "hashtags": ["#Flexbox", "#CSS", "#WebDevelopment"]
-  },
-  {
-    "id": "9",
-    "cover_pic": "https://images.unsplash.com/photo-1542224566-4ecb202f15a3",
-    "title": "Mastering JavaScript ES6 Features",
-    "author": "Tom Carter",
-    "author_image": "https://randomuser.me/api/portraits/men/55.jpg",
-    "post_date": "4-8-2024",
-    "reading_time": 6,
-    "hashtags": ["#JavaScript", "#ES6", "#Programming"]
-  },
+
   {
     "id": "10",
     "cover_pic": "https://images.unsplash.com/photo-1506748686214-e9df14d4d9d0",
